@@ -20,30 +20,46 @@ public class GokuBaseAnamations : MonoBehaviour
 
     PlayerMovement playermov;
     Animator animator;
-    Rigidbody2D rb;
+    private int atak=1;
     void Start()
     {
         playermov = GetComponent<PlayerMovement>();
         animator = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
+
     }
 
     // Update is called once per frame
     void Update()
     {
 
-
-
-        //input.getkeydown(keycode.a) || input.getkeydown(keycode.s) || input.getkeydown(keycode.w) || input.getkeydown(keycode.d)
+        
         if (playermov.movement.x != 0||playermov.movement.y !=0)
         {
             ChangeAnimationState(Goku_Base_Moving);
         }
-        else
+        //if (playermov.movement.x == 0 || playermov.movement.y == 0)
+        //{
+        //    ChangeAnimationState(Goku_Base_Idle);
+        //}
+        
+
+        if (Input.GetKeyDown(KeyCode.H))
         {
-            ChangeAnimationState(Goku_Base_Idle);
+            
+            if (atak == 1) {
+                ChangeAnimationState(Goku_Base_combo1);
+                atak++;
+            }else if (atak == 2)
+            {
+                ChangeAnimationState(Goku_Base_combo2);
+                atak++;
+            }else if (atak == 3)
+            {
+                ChangeAnimationState(Goku_Base_Atak3);
+                atak = 1;
+            }
+         
         }
-       
         
     }
 
