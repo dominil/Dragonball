@@ -1,0 +1,6072 @@
+fileFormatVersion: 2
+guid: 8886542b91c5f754e85d495d1d85d916
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2454036032058283457
+    second: base goku 1_0
+  - first:
+      213: -5140082604221543045
+    second: base goku 1_1
+  - first:
+      213: -3667825395424023116
+    second: base goku 1_2
+  - first:
+      213: 4882587185202035040
+    second: base goku 1_3
+  - first:
+      213: 4007041394865452045
+    second: base goku 1_4
+  - first:
+      213: -3535835510888971850
+    second: base goku 1_5
+  - first:
+      213: 5028593383645465391
+    second: base goku 1_6
+  - first:
+      213: 8084870022191798794
+    second: base goku 1_7
+  - first:
+      213: -6331262757710241583
+    second: base goku 1_8
+  - first:
+      213: 6725285425005185481
+    second: base goku 1_9
+  - first:
+      213: -5243952894564533786
+    second: base goku 1_10
+  - first:
+      213: -8807777887032633648
+    second: base goku 1_11
+  - first:
+      213: -7246622479767820405
+    second: base goku 1_12
+  - first:
+      213: 2907647371495757361
+    second: base goku 1_13
+  - first:
+      213: 3224112208978766288
+    second: base goku 1_14
+  - first:
+      213: 4926362159610286974
+    second: base goku 1_15
+  - first:
+      213: 448239302309335553
+    second: base goku 1_16
+  - first:
+      213: -8922327990164070009
+    second: base goku 1_17
+  - first:
+      213: 5771846696051877907
+    second: base goku 1_18
+  - first:
+      213: -3959743724734162833
+    second: base goku 1_19
+  - first:
+      213: -1334825480442115254
+    second: base goku 1_20
+  - first:
+      213: 1242361304965281225
+    second: base goku 1_21
+  - first:
+      213: 7627023239134805124
+    second: base goku 1_22
+  - first:
+      213: -4280176886820795972
+    second: base goku 1_23
+  - first:
+      213: 5231238081409838580
+    second: base goku 1_24
+  - first:
+      213: -1776748850946729940
+    second: base goku 1_25
+  - first:
+      213: -8153196187147754591
+    second: base goku 1_26
+  - first:
+      213: 9059626386382213237
+    second: base goku 1_27
+  - first:
+      213: -8577402367801095003
+    second: base goku 1_28
+  - first:
+      213: 6415780906417238144
+    second: base goku 1_29
+  - first:
+      213: -60099247446649541
+    second: base goku 1_30
+  - first:
+      213: -6662860280400342546
+    second: base goku 1_31
+  - first:
+      213: 2656702102717425470
+    second: base goku 1_32
+  - first:
+      213: 3165960247845542140
+    second: base goku 1_33
+  - first:
+      213: -1455018360693675963
+    second: base goku 1_34
+  - first:
+      213: -2197117951069094338
+    second: base goku 1_35
+  - first:
+      213: 3802116596595170900
+    second: base goku 1_36
+  - first:
+      213: 419373055404524933
+    second: base goku 1_37
+  - first:
+      213: 373294794163303108
+    second: base goku 1_38
+  - first:
+      213: 2734971720844444344
+    second: base goku 1_39
+  - first:
+      213: -6358916244105039447
+    second: base goku 1_40
+  - first:
+      213: 5523047129580738587
+    second: base goku 1_41
+  - first:
+      213: 8939380962357699200
+    second: base goku 1_42
+  - first:
+      213: 465513686128408218
+    second: base goku 1_43
+  - first:
+      213: 3072536869715784854
+    second: base goku 1_44
+  - first:
+      213: -2606664980032629879
+    second: base goku 1_45
+  - first:
+      213: 1678979733807554000
+    second: base goku 1_46
+  - first:
+      213: 1393895022765699246
+    second: base goku 1_47
+  - first:
+      213: -7624937984919017629
+    second: base goku 1_48
+  - first:
+      213: -7373766750977210528
+    second: base goku 1_49
+  - first:
+      213: -1459373380364978916
+    second: base goku 1_50
+  - first:
+      213: -3288405744964037935
+    second: base goku 1_51
+  - first:
+      213: 576434025571403181
+    second: base goku 1_52
+  - first:
+      213: -2924183109972623812
+    second: base goku 1_53
+  - first:
+      213: 3839454591458794910
+    second: base goku 1_54
+  - first:
+      213: -9012703823386136815
+    second: base goku 1_55
+  - first:
+      213: 4218609450797890134
+    second: base goku 1_56
+  - first:
+      213: -5880174715587613277
+    second: base goku 1_57
+  - first:
+      213: 5900183770592170755
+    second: base goku 1_58
+  - first:
+      213: -6999991934772117571
+    second: base goku 1_59
+  - first:
+      213: 7815560676302530566
+    second: base goku 1_60
+  - first:
+      213: 4707302633313205342
+    second: base goku 1_61
+  - first:
+      213: -8423009107405387969
+    second: base goku 1_62
+  - first:
+      213: -7909385749107035048
+    second: base goku 1_63
+  - first:
+      213: -2444773582109344644
+    second: base goku 1_64
+  - first:
+      213: -6662262348086657955
+    second: base goku 1_65
+  - first:
+      213: -2382523443794829075
+    second: base goku 1_66
+  - first:
+      213: -6716081856078838279
+    second: base goku 1_67
+  - first:
+      213: -4373303011701919540
+    second: base goku 1_68
+  - first:
+      213: -5819427193590897011
+    second: base goku 1_69
+  - first:
+      213: -949390416814373308
+    second: base goku 1_70
+  - first:
+      213: -7018064598003827759
+    second: base goku 1_71
+  - first:
+      213: -2805941990507632700
+    second: base goku 1_72
+  - first:
+      213: -8062229817239453993
+    second: base goku 1_73
+  - first:
+      213: 2494921348051998885
+    second: base goku 1_74
+  - first:
+      213: -8183675098029108903
+    second: base goku 1_75
+  - first:
+      213: 6531025206779424663
+    second: base goku 1_76
+  - first:
+      213: 7600253856282621695
+    second: base goku 1_77
+  - first:
+      213: -886158370951418222
+    second: base goku 1_78
+  - first:
+      213: 7256257728823455461
+    second: base goku 1_79
+  - first:
+      213: -6837737071417017888
+    second: base goku 1_80
+  - first:
+      213: 3914364283316177670
+    second: base goku 1_81
+  - first:
+      213: -9128680014799403971
+    second: base goku 1_82
+  - first:
+      213: -5129093984451995324
+    second: base goku 1_83
+  - first:
+      213: 8811905481069365728
+    second: base goku 1_84
+  - first:
+      213: 4235454677164491378
+    second: base goku 1_85
+  - first:
+      213: 6424503426070637696
+    second: base goku 1_86
+  - first:
+      213: 2407436420438373341
+    second: base goku 1_87
+  - first:
+      213: -7881113655233089535
+    second: base goku 1_88
+  - first:
+      213: 5173675473640110697
+    second: base goku 1_89
+  - first:
+      213: -4059497696406966229
+    second: base goku 1_90
+  - first:
+      213: 6099195677358412987
+    second: base goku 1_91
+  - first:
+      213: -7444218706519397418
+    second: base goku 1_92
+  - first:
+      213: -3930040523476243215
+    second: base goku 1_93
+  - first:
+      213: 6849934656748327033
+    second: base goku 1_94
+  - first:
+      213: -9181283781667880165
+    second: base goku 1_95
+  - first:
+      213: -5095402039127124419
+    second: base goku 1_96
+  - first:
+      213: -1734029329363936858
+    second: base goku 1_97
+  - first:
+      213: -3103775683347174133
+    second: base goku 1_98
+  - first:
+      213: 1932333611224491542
+    second: base goku 1_99
+  - first:
+      213: -7879294089446620375
+    second: base goku 1_100
+  - first:
+      213: 3973527224038468952
+    second: base goku 1_101
+  - first:
+      213: -8716916705491568574
+    second: base goku 1_102
+  - first:
+      213: 4084363914538210308
+    second: base goku 1_103
+  - first:
+      213: -7351238759431313305
+    second: base goku 1_104
+  - first:
+      213: 7796160322406145389
+    second: base goku 1_105
+  - first:
+      213: -3878006887275632033
+    second: base goku 1_106
+  - first:
+      213: 995491966450121715
+    second: base goku 1_107
+  - first:
+      213: 8376111288583090803
+    second: base goku 1_108
+  - first:
+      213: -3559262312198396809
+    second: base goku 1_109
+  - first:
+      213: 3992750674938700247
+    second: base goku 1_110
+  - first:
+      213: 4130410150883632018
+    second: base goku 1_111
+  - first:
+      213: 9127054503392702876
+    second: base goku 1_112
+  - first:
+      213: -1863087543873234023
+    second: base goku 1_113
+  - first:
+      213: -7102592217264801244
+    second: base goku 1_114
+  - first:
+      213: 2722687997266840675
+    second: base goku 1_115
+  - first:
+      213: 4859129895281068428
+    second: base goku 1_116
+  - first:
+      213: 552255725046385108
+    second: base goku 1_117
+  - first:
+      213: 1566193611485069922
+    second: base goku 1_118
+  - first:
+      213: -8245346989722367490
+    second: base goku 1_119
+  - first:
+      213: -3893219970733185652
+    second: base goku 1_120
+  - first:
+      213: 6685833617607321077
+    second: base goku 1_121
+  - first:
+      213: 6377425757455324438
+    second: base goku 1_122
+  - first:
+      213: 5264493154549109614
+    second: base goku 1_123
+  - first:
+      213: -106777978022848909
+    second: base goku 1_124
+  - first:
+      213: 7027208277879901540
+    second: base goku 1_125
+  - first:
+      213: 9071834681774283796
+    second: base goku 1_126
+  - first:
+      213: 1840109753223767272
+    second: base goku 1_127
+  - first:
+      213: -2260670480033351283
+    second: base goku 1_128
+  - first:
+      213: -1830349956618341693
+    second: base goku 1_129
+  - first:
+      213: 7481194270979091551
+    second: base goku 1_130
+  - first:
+      213: 4192724606085630766
+    second: base goku 1_131
+  - first:
+      213: 3335573956115719621
+    second: base goku 1_132
+  - first:
+      213: 606363396748227907
+    second: base goku 1_133
+  - first:
+      213: -2647482346606061040
+    second: base goku 1_134
+  - first:
+      213: -8115314596295538039
+    second: base goku 1_135
+  - first:
+      213: -3263668384618631686
+    second: base goku 1_136
+  - first:
+      213: 3844649745888189984
+    second: base goku 1_137
+  - first:
+      213: 3613389367352288694
+    second: base goku 1_138
+  - first:
+      213: -7760102901811460758
+    second: base goku 1_139
+  - first:
+      213: 7816952922307193410
+    second: base goku 1_140
+  - first:
+      213: -1339641142472410479
+    second: base goku 1_141
+  - first:
+      213: 2286099875516998719
+    second: base goku 1_142
+  - first:
+      213: -5759180083386084359
+    second: base goku 1_143
+  - first:
+      213: -9048086304190079607
+    second: base goku 1_144
+  - first:
+      213: 626389101792679125
+    second: base goku 1_145
+  - first:
+      213: 6432283423884440554
+    second: base goku 1_146
+  - first:
+      213: 8844808731533093219
+    second: base goku 1_147
+  - first:
+      213: -589650593741606396
+    second: base goku 1_148
+  - first:
+      213: -5450410160464342088
+    second: base goku 1_149
+  - first:
+      213: 4500219927952122589
+    second: base goku 1_150
+  - first:
+      213: 7583470436435316605
+    second: base goku 1_151
+  - first:
+      213: -970917376983818763
+    second: base goku 1_152
+  - first:
+      213: -8898645776369164765
+    second: base goku 1_153
+  - first:
+      213: -7149523371796880855
+    second: base goku 1_154
+  - first:
+      213: -800727810452898703
+    second: base goku 1_155
+  - first:
+      213: -7011122183812415320
+    second: base goku 1_156
+  - first:
+      213: -617411545879879533
+    second: base goku 1_157
+  - first:
+      213: 5007918362989264276
+    second: base goku 1_158
+  - first:
+      213: -1416998961292227074
+    second: base goku 1_159
+  - first:
+      213: -3133942875919705555
+    second: base goku 1_160
+  - first:
+      213: 7789697041330178984
+    second: base goku 1_161
+  - first:
+      213: -9037822937777058977
+    second: base goku 1_162
+  - first:
+      213: -4255948684650170818
+    second: base goku 1_163
+  - first:
+      213: -5981091172604750413
+    second: base goku 1_164
+  - first:
+      213: 8616676870821773826
+    second: base goku 1_165
+  - first:
+      213: 9044322489053847661
+    second: base goku 1_166
+  - first:
+      213: -630502878964725629
+    second: base goku 1_167
+  - first:
+      213: 5971613308811542862
+    second: base goku 1_168
+  - first:
+      213: -3087999388817918438
+    second: base goku 1_169
+  - first:
+      213: 6450058813823994540
+    second: base goku 1_170
+  - first:
+      213: 7576512109437313765
+    second: base goku 1_171
+  - first:
+      213: 3132054786023437185
+    second: base goku 1_172
+  - first:
+      213: -2317181124328895792
+    second: base goku 1_173
+  - first:
+      213: -2362221597539809
+    second: base goku 1_174
+  - first:
+      213: 6285110608175834736
+    second: base goku 1_175
+  - first:
+      213: 5307028894414446467
+    second: base goku 1_176
+  - first:
+      213: 5282888807152384387
+    second: base goku 1_177
+  - first:
+      213: 6515111116094583847
+    second: base goku 1_178
+  - first:
+      213: 2485661007022141445
+    second: base goku 1_179
+  - first:
+      213: 7206015982456425492
+    second: base goku 1_180
+  - first:
+      213: -1541661954980205111
+    second: base goku 1_181
+  - first:
+      213: -949586273520161004
+    second: base goku 1_182
+  - first:
+      213: 7512518166288220391
+    second: base goku 1_183
+  - first:
+      213: -6696315034232383436
+    second: base goku 1_184
+  - first:
+      213: 6327770796496369420
+    second: base goku 1_185
+  - first:
+      213: -358644906535195203
+    second: base goku 1_186
+  - first:
+      213: -6451407002926259489
+    second: base goku 1_187
+  - first:
+      213: -6059814341596305093
+    second: base goku 1_188
+  - first:
+      213: -4175402014622393805
+    second: base goku 1_189
+  - first:
+      213: -3278181163571751691
+    second: base goku 1_190
+  - first:
+      213: -8344182086002915297
+    second: base goku 1_191
+  - first:
+      213: -5153584592697382173
+    second: base goku 1_192
+  - first:
+      213: 8601820179587734562
+    second: base goku 1_193
+  - first:
+      213: 2606309817327398503
+    second: base goku 1_194
+  - first:
+      213: 7860304305757388024
+    second: base goku 1_195
+  - first:
+      213: 3696795263887519814
+    second: base goku 1_196
+  - first:
+      213: 5329540084701518706
+    second: base goku 1_197
+  - first:
+      213: -4070553308399808820
+    second: base goku 1_198
+  - first:
+      213: -4946098908695791596
+    second: base goku 1_199
+  - first:
+      213: -4211355228569607875
+    second: base goku 1_200
+  - first:
+      213: -4742502783314150622
+    second: base goku 1_201
+  - first:
+      213: 1572951174186111747
+    second: base goku 1_202
+  - first:
+      213: -8513743292997263113
+    second: base goku 1_203
+  - first:
+      213: 7356127798339903707
+    second: base goku 1_204
+  - first:
+      213: -5334585132844076452
+    second: base goku 1_205
+  - first:
+      213: 8933372829092723121
+    second: base goku 1_206
+  - first:
+      213: 8834170932427745854
+    second: base goku 1_207
+  - first:
+      213: 7756255632284671078
+    second: base goku 1_208
+  - first:
+      213: -7600937355486524078
+    second: base goku 1_209
+  - first:
+      213: 4595472151422477539
+    second: base goku 1_210
+  - first:
+      213: 6059350341103365373
+    second: base goku 1_211
+  - first:
+      213: 917767521877956755
+    second: base goku 1_212
+  - first:
+      213: -2158914397309005956
+    second: base goku 1_213
+  - first:
+      213: 7475797399875981206
+    second: base goku 1_214
+  - first:
+      213: -7561294186467541447
+    second: base goku 1_215
+  - first:
+      213: -4566649574834994214
+    second: base goku 1_216
+  - first:
+      213: 6384133293480138241
+    second: base goku 1_217
+  - first:
+      213: 5937884333538283483
+    second: base goku 1_218
+  - first:
+      213: -2465321260422115239
+    second: base goku 1_219
+  - first:
+      213: -343781728553627684
+    second: base goku 1_220
+  - first:
+      213: 3533151385116741096
+    second: base goku 1_221
+  - first:
+      213: -4769909905440742997
+    second: base goku 1_222
+  - first:
+      213: -7498148504358091518
+    second: base goku 1_223
+  - first:
+      213: 8848816499977459171
+    second: base goku 1_224
+  - first:
+      213: -5101094548145418393
+    second: base goku 1_225
+  - first:
+      213: -7458469465812394734
+    second: base goku 1_226
+  - first:
+      213: 7390961015803472272
+    second: base goku 1_227
+  - first:
+      213: 8936149696957076380
+    second: base goku 1_228
+  - first:
+      213: 1957451480196130840
+    second: base goku 1_229
+  - first:
+      213: -6991653531741670330
+    second: base goku 1_230
+  - first:
+      213: -4575006884044985354
+    second: base goku 1_231
+  - first:
+      213: 1284881910612041795
+    second: base goku 1_232
+  - first:
+      213: -7904579009770091537
+    second: base goku 1_233
+  - first:
+      213: -8815864764865819855
+    second: base goku 1_234
+  - first:
+      213: 889891490152505095
+    second: base goku 1_235
+  - first:
+      213: 5353728949216909869
+    second: base goku 1_236
+  - first:
+      213: -214866666732909779
+    second: base goku 1_237
+  - first:
+      213: -6446026828692490408
+    second: base goku 1_238
+  - first:
+      213: 3708425936163941659
+    second: base goku 1_239
+  - first:
+      213: -3590980237754153884
+    second: base goku 1_240
+  - first:
+      213: 8865045149517749997
+    second: base goku 1_241
+  - first:
+      213: 6876554894436019949
+    second: base goku 1_242
+  - first:
+      213: 3834942966117736217
+    second: base goku 1_243
+  - first:
+      213: -5322247118128983625
+    second: base goku 1_244
+  - first:
+      213: -8836402487102635682
+    second: base goku 1_245
+  - first:
+      213: -1225509422538962908
+    second: base goku 1_246
+  - first:
+      213: 6914172898592275902
+    second: base goku 1_247
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: base goku 1_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2324
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a282b1b3381fdd0800000000000000
+      internalID: -2454036032058283457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2324
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc533da12caa8b0800000000000000
+      internalID: -5140082604221543045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2324
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd289f5c34491dc0800000000000000
+      internalID: -3667825395424023116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2324
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06977d60d2f62c340800000000000000
+      internalID: 4882587185202035040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2324
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04bd3d1beedb9730800000000000000
+      internalID: 4007041394865452045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2324
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1404526503eeec0800000000000000
+      internalID: -3535835510888971850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2326
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b41103a0729c540800000000000000
+      internalID: 5028593383645465391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2326
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a52ff137a333070800000000000000
+      internalID: 8084870022191798794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2324
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0650bf016d228a0800000000000000
+      internalID: -6331262757710241583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2345
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9cb824673055d50800000000000000
+      internalID: 6725285425005185481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2326
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9799440acb937b0800000000000000
+      internalID: -5243952894564533786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2326
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d611e66dac74c580800000000000000
+      internalID: -8807777887032633648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_12
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b872418bf33de6b90800000000000000
+      internalID: -7246622479767820405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2326
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1365a1601e90a5820800000000000000
+      internalID: 2907647371495757361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2326
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ed24d8f85ebc20800000000000000
+      internalID: 3224112208978766288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2252
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e735f7e7844fd5440800000000000000
+      internalID: 4926362159610286974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2252
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10254844547783600800000000000000
+      internalID: 448239302309335553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2252
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781eeb827f58d2480800000000000000
+      internalID: -8922327990164070009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2252
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182f205df7b91050800000000000000
+      internalID: 5771846696051877907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2259
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6853addf0a2c09c0800000000000000
+      internalID: -3959743724734162833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2262
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b8b193c4fb97de0800000000000000
+      internalID: -1334825480442115254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c575294601cd3110800000000000000
+      internalID: 1242361304965281225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_22
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2252
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c774ee931a8d960800000000000000
+      internalID: 7627023239134805124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2252
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9853d7cc1c994c0800000000000000
+      internalID: -4280176886820795972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdede99157199840800000000000000
+      internalID: 5231238081409838580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2252
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c289c3c6558b757e0800000000000000
+      internalID: -1776748850946729940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2252
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32df8e3470ade80800000000000000
+      internalID: -8153196187147754591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_27
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2252
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570511ec2324abd70800000000000000
+      internalID: 9059626386382213237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_28
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2253
+        width: 8
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac0f93ddf1f6f880800000000000000
+      internalID: -8577402367801095003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2261
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080bbbbfdbe690950800000000000000
+      internalID: 6415780906417238144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_30
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b359ca88d0c7a2ff0800000000000000
+      internalID: -60099247446649541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2183
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee19da650e3c883a0800000000000000
+      internalID: -6662860280400342546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2183
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3761829c708ed420800000000000000
+      internalID: 2656702102717425470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2183
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf857d94210cfeb20800000000000000
+      internalID: 3165960247845542140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2182
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548ae2d828cbecbe0800000000000000
+      internalID: -1455018360693675963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2199
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e74e44dd44281e0800000000000000
+      internalID: -2197117951069094338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_36
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2181
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e1cae66e4d3c430800000000000000
+      internalID: 3802116596595170900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2181
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c1cb6299e1d500800000000000000
+      internalID: 419373055404524933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_38
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2181
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c23b9233a53e2500800000000000000
+      internalID: 373294794163303108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2181
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b20ca32a4294f520800000000000000
+      internalID: 2734971720844444344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2197
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a178a1fd5790c7a0800000000000000
+      internalID: -6358916244105039447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_41
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2176
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18966c1a1ec5ac40800000000000000
+      internalID: 5523047129580738587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2176
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08268355f9f0f0c70800000000000000
+      internalID: 8939380962357699200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2176
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9634cb2b36d57600800000000000000
+      internalID: 465513686128408218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_44
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2176
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69433b60108d3aa20800000000000000
+      internalID: 3072536869715784854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_45
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2176
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98354b8e20443dbd0800000000000000
+      internalID: -2606664980032629879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_46
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2176
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddddaa1c2fec4710800000000000000
+      internalID: 1678979733807554000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_47
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2199
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07226532c185310800000000000000
+      internalID: 1393895022765699246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2108
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e4862d47ce2690800000000000000
+      internalID: -7624937984919017629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2108
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067ca67353e1ba990800000000000000
+      internalID: -7373766750977210528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2117
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c153fa484a34fbbe0800000000000000
+      internalID: -1459373380364978916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2109
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2901ec56c3d52d0800000000000000
+      internalID: -3288405744964037935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2108
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c1a231b7eff700800000000000000
+      internalID: 576434025571403181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2108
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e72e754f63b67d0800000000000000
+      internalID: -2924183109972623812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dd42fcb9b784530800000000000000
+      internalID: 3839454591458794910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2108
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa34dbf917ce280800000000000000
+      internalID: -9012703823386136815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_56
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2108
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65af9e0c1f28b8a30800000000000000
+      internalID: 4218609450797890134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2125
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adaa2c204c656ea0800000000000000
+      internalID: -5880174715587613277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2028
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303dbabf0e9a1e150800000000000000
+      internalID: 5900183770592170755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2028
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbffe414c680bde90800000000000000
+      internalID: -6999991934772117571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2028
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6082687c603767c60800000000000000
+      internalID: 7815560676302530566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2028
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf4ecfdc2b35140800000000000000
+      internalID: 4707302633313205342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2045
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c83508d57b1b80800000000000000
+      internalID: -8423009107405387969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_63
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2027
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85430f021973c3290800000000000000
+      internalID: -7909385749107035048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2027
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfc1a416b621ed0800000000000000
+      internalID: -2444773582109344644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2027
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cb5dd41b3ea83a0800000000000000
+      internalID: -6662262348086657955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2027
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0a19f0d839feed0800000000000000
+      internalID: -2382523443794829075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_67
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2027
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f589fd922fabc2a0800000000000000
+      internalID: -6716081856078838279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_68
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2026
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc07c54e418ee43c0800000000000000
+      internalID: -4373303011701919540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2043
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8624c1dccd3d3fa0800000000000000
+      internalID: -5819427193590897011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1947
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4468e9c227613d2f0800000000000000
+      internalID: -949390416814373308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1947
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbbc317e63da9e90800000000000000
+      internalID: -7018064598003827759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_72
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1947
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7a07b40aa4f09d0800000000000000
+      internalID: -2805941990507632700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1947
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de31ed52b43d1090800000000000000
+      internalID: -8062229817239453993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1947
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89d255fbdbf9220800000000000000
+      internalID: 2494921348051998885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_75
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1947
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d3c87bdebd6e80800000000000000
+      internalID: -8183675098029108903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_76
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1947
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa53d92dcd2aa50800000000000000
+      internalID: 6531025206779424663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_77
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b48a4d96897960800000000000000
+      internalID: 7600253856282621695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_78
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1947
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea3bc18abb3b3f0800000000000000
+      internalID: -886158370951418222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_79
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1951
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee643585f763b460800000000000000
+      internalID: 7256257728823455461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_80
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1954
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93ba68c5a7b11a0800000000000000
+      internalID: -6837737071417017888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_81
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1954
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b8984939d925630800000000000000
+      internalID: 3914364283316177670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_82
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1956
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348ca174e9605180800000000000000
+      internalID: -9128680014799403971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_83
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1954
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449552d323cc1d8b0800000000000000
+      internalID: -5129093984451995324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_84
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1863
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e90579f85d2a4a70800000000000000
+      internalID: 8811905481069365728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_85
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1861
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27208a6a69b57ca30800000000000000
+      internalID: 4235454677164491378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1861
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c6839d3db682950800000000000000
+      internalID: 6424503426070637696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1866
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd331935baee86120800000000000000
+      internalID: 2407436420438373341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1866
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f951f2e8a0a290800000000000000
+      internalID: -7881113655233089535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_89
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1861
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a38759e669cc740800000000000000
+      internalID: 5173675473640110697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_90
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1860
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20752f6a54c9a7c0800000000000000
+      internalID: -4059497696406966229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_91
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1866
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4db845722b4a450800000000000000
+      internalID: 6099195677358412987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_92
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1866
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbe79f0782d0b890800000000000000
+      internalID: -7444218706519397418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_93
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1864
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcee4557f0b579c0800000000000000
+      internalID: -3930040523476243215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_94
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1778
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9701f1e174bdf0f50800000000000000
+      internalID: 6849934656748327033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_95
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1778
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1381ab8b07859080800000000000000
+      internalID: -9181283781667880165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1778
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36d60e87de7949b0800000000000000
+      internalID: -5095402039127124419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_97
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1778
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a95721238d7fe7e0800000000000000
+      internalID: -1734029329363936858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_98
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1778
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da893e57c2de4d0800000000000000
+      internalID: -3103775683347174133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_99
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1778
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61665947e2701da10800000000000000
+      internalID: 1932333611224491542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_100
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1797
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92303bd95cf17a290800000000000000
+      internalID: -7879294089446620375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_101
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1781
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d282625fdc42730800000000000000
+      internalID: 3973527224038468952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_102
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1797
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248b188c07a470780800000000000000
+      internalID: -8716916705491568574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_103
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1765
+        width: 123
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404597327539ea830800000000000000
+      internalID: 4084363914538210308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1683
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768630dfb472bf990800000000000000
+      internalID: -7351238759431313305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1683
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d5305e186813c60800000000000000
+      internalID: 7796160322406145389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1683
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aea67584d8e2ac0800000000000000
+      internalID: -3878006887275632033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_107
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1683
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb30d4ba2b0dd00800000000000000
+      internalID: 995491966450121715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1683
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3727223a6dced3470800000000000000
+      internalID: 8376111288583090803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_109
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774aafae8c5fa9ec0800000000000000
+      internalID: -3559262312198396809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_110
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1680
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d12c689599196730800000000000000
+      internalID: 3992750674938700247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_111
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1699
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293261cf52a225930800000000000000
+      internalID: 4130410150883632018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_112
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1586
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91f950b6bfc9ae70800000000000000
+      internalID: 9127054503392702876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_113
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1586
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b1bf9ffbbf426e0800000000000000
+      internalID: -1863087543873234023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_114
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1586
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a3a7172068e6d90800000000000000
+      internalID: -7102592217264801244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_115
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1586
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4f4fde4ee8c520800000000000000
+      internalID: 2722687997266840675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_116
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1586
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8985bd15e81f6340800000000000000
+      internalID: 4859129895281068428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_117
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1586
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c09ce7a10aa700800000000000000
+      internalID: 552255725046385108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_118
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1501
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262cd06aacc3cb510800000000000000
+      internalID: 1566193611485069922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_119
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1501
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef903cb3994a29d80800000000000000
+      internalID: -8245346989722367490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_120
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1501
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85edf3501188f9c0800000000000000
+      internalID: -3893219970733185652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_121
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1501
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f569dc804ad8cc50800000000000000
+      internalID: 6685833617607321077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_122
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1501
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6151d86ffea218850800000000000000
+      internalID: 6377425757455324438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_123
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1501
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63106fa1ac3f0940800000000000000
+      internalID: 5264493154549109614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_124
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1503
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3761d16aef5a48ef0800000000000000
+      internalID: -106777978022848909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_125
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1503
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d47bd62b8a58160800000000000000
+      internalID: 7027208277879901540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_126
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1503
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c99341491a5ed70800000000000000
+      internalID: 9071834681774283796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_127
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1489
+        width: 230
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e462ac3212698910800000000000000
+      internalID: 1840109753223767272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_128
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1421
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89766b0d2c70a0e0800000000000000
+      internalID: -2260670480033351283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_129
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1421
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2bc1d796a4996e0800000000000000
+      internalID: -1830349956618341693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1419
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c65696d8a82d760800000000000000
+      internalID: 7481194270979091551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_131
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1419
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b06c2b0dc8f2a30800000000000000
+      internalID: 4192724606085630766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_132
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1434
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5625827d65a4e20800000000000000
+      internalID: 3335573956115719621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_133
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1434
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3453af3fb4c3a6800800000000000000
+      internalID: 606363396748227907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_134
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1332
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a9d6d25d0424bd0800000000000000
+      internalID: -2647482346606061040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_135
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1332
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a03471f5c906f80800000000000000
+      internalID: -8115314596295538039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_136
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1345
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd222655ee15b2d0800000000000000
+      internalID: -3263668384618631686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_137
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1337
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e1675f290fa5530800000000000000
+      internalID: 3844649745888189984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_138
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1337
+        width: 143
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e43c2c76552230800000000000000
+      internalID: 3613389367352288694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_139
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1338
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65cc0d86839e4490800000000000000
+      internalID: -7760102901811460758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_140
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1331
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a621054456b7c60800000000000000
+      internalID: 7816952922307193410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_141
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1253
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19afe688a73a86de0800000000000000
+      internalID: -1339641142472410479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_142
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1252
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34614979bbd9bf10800000000000000
+      internalID: 2286099875516998719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_143
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1247
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f394444a384310b0800000000000000
+      internalID: -5759180083386084359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_144
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1263
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d5ca5f17dbe6280800000000000000
+      internalID: -9048086304190079607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_145
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1263
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4578fb19161b800800000000000000
+      internalID: 626389101792679125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_146
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1259
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f34fb1bf044950800000000000000
+      internalID: 6432283423884440554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_147
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1277
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369ad45fda21fba70800000000000000
+      internalID: 8844808731533093219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_148
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1243
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402fe6ab8e321d7f0800000000000000
+      internalID: -589650593741606396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_149
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1151
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3d75926d04c54b0800000000000000
+      internalID: -5450410160464342088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_150
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1150
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd268b86e2ef37e30800000000000000
+      internalID: 4500219927952122589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_151
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1150
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f4768de26ed3960800000000000000
+      internalID: 7583470436435316605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1150
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd10ae2acb9682f0800000000000000
+      internalID: -970917376983818763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_153
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1150
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e5c7d30d8a18480800000000000000
+      internalID: -8898645776369164765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_154
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1150
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922a1b68f5ac7cc90800000000000000
+      internalID: -7149523371796880855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_155
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1152
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cbd208c4e33e4f0800000000000000
+      internalID: -800727810452898703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_156
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00005358d73be90800000000000000
+      internalID: -7011122183812415320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_157
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1149
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390ea9f58738e67f0800000000000000
+      internalID: -617411545879879533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_158
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1149
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d7122d733bf7540800000000000000
+      internalID: 5007918362989264276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_159
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1149
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd4419c3fec55ce0800000000000000
+      internalID: -1416998961292227074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_160
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1149
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a90760f8ff184d0800000000000000
+      internalID: -3133942875919705555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_161
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1154
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab856000309a1c60800000000000000
+      internalID: 7789697041330178984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_162
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1154
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bcbea2ce3339280800000000000000
+      internalID: -9037822937777058977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_163
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1079
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36b2256835dfe4c0800000000000000
+      internalID: -4255948684650170818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_164
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1043
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55ba78445eefca0800000000000000
+      internalID: -5981091172604750413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_165
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1045
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20208adf5f5949770800000000000000
+      internalID: 8616676870821773826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_166
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1043
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a12a8263e38d70800000000000000
+      internalID: 9044322489053847661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_167
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1043
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388427dd8f00047f0800000000000000
+      internalID: -630502878964725629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_168
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1010
+        width: 419
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4105b75aae6fd250800000000000000
+      internalID: 5971613308811542862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_169
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 915
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1672e2bae83525d0800000000000000
+      internalID: -3087999388817918438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_170
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 915
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4b5a3156338950800000000000000
+      internalID: 6450058813823994540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 915
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2e4771f9d252960800000000000000
+      internalID: 7576512109437313765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_172
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 915
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1833df9cb3b477b20800000000000000
+      internalID: 3132054786023437185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_173
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 915
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac22c5b08b7dfd0800000000000000
+      internalID: -2317181124328895792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_174
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 915
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124ccc629b97fff0800000000000000
+      internalID: -2362221597539809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_175
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 915
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0762c565cc2393750800000000000000
+      internalID: 6285110608175834736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_176
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 915
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9e4069aa56a940800000000000000
+      internalID: 5307028894414446467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_177
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 915
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38974325167905940800000000000000
+      internalID: 5282888807152384387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_178
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 915
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243403aa035a6a50800000000000000
+      internalID: 6515111116094583847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_179
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 915
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500389b2487de7220800000000000000
+      internalID: 2485661007022141445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_180
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 915
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4a106b59e00460800000000000000
+      internalID: 7206015982456425492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_181
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 917
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdaba9be9aea9ae0800000000000000
+      internalID: -1541661954980205111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_182
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 910
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f6e3bb05462d2f0800000000000000
+      internalID: -949586273520161004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_183
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 964
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0474e1873d14860800000000000000
+      internalID: 7512518166288220391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_184
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 964
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438987874f8e113a0800000000000000
+      internalID: -6696315034232383436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_185
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 939
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07b1417302c0d750800000000000000
+      internalID: 6327770796496369420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_186
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 936
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd67719b56d50bf0800000000000000
+      internalID: -358644906535195203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_187
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 944
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2ec19038ff776a0800000000000000
+      internalID: -6451407002926259489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_188
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 944
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a55c66f637eba0800000000000000
+      internalID: -6059814341596305093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_189
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 928
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5bfb6dfdfd06c0800000000000000
+      internalID: -4175402014622393805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_190
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 928
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ddeba99f8182d0800000000000000
+      internalID: -3278181163571751691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_191
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 903
+        width: 192
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184e962a92833c80800000000000000
+      internalID: -8344182086002915297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_192
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 909
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa8582e1aca78b0800000000000000
+      internalID: -5153584592697382173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_193
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 909
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1d1201edcf5770800000000000000
+      internalID: 8601820179587734562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_194
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 751
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea96458f87b2420800000000000000
+      internalID: 2606309817327398503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_195
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 686
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc7423de19651d60800000000000000
+      internalID: 7860304305757388024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_196
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 686
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640bc5fb4b7ad4330800000000000000
+      internalID: 3696795263887519814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_197
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 685
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bd6dc487456f940800000000000000
+      internalID: 5329540084701518706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_198
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 685
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccec98d255d7287c0800000000000000
+      internalID: -4070553308399808820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_199
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 687
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4187d338f3deb5bb0800000000000000
+      internalID: -4946098908695791596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_200
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 686
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31ef1a7bb24e85c0800000000000000
+      internalID: -4211355228569607875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_201
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 470
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b324e68de3f2eb0800000000000000
+      internalID: -4742502783314150622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_202
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 470
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303956252ce34d510800000000000000
+      internalID: 1572951174186111747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_203
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 470
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a800359b19d980800000000000000
+      internalID: -8513743292997263113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_204
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 470
+        width: 125
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd02d661247361660800000000000000
+      internalID: 7356127798339903707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_205
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 470
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52bfb4e51fb7f5b0800000000000000
+      internalID: -5334585132844076452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_206
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 470
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9b23cc147b9fb70800000000000000
+      internalID: 8933372829092723121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_207
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 470
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aef6858a7499a70800000000000000
+      internalID: 8834170932427745854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_208
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 470
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c53753761c3ab60800000000000000
+      internalID: 7756255632284671078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_209
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 470
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8a362fbb048690800000000000000
+      internalID: -7600937355486524078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_210
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 508
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4acb8e29566cf30800000000000000
+      internalID: 4595472151422477539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_211
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 470
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcab1b0803271450800000000000000
+      internalID: 6059350341103365373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_212
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 509
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3981de7d2b09cbc00800000000000000
+      internalID: 917767521877956755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_213
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 424
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f8be74bcef902e0800000000000000
+      internalID: -2158914397309005956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_214
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 421
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f8560702e5fb760800000000000000
+      internalID: 7475797399875981206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_215
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 310
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e3065bff2e01790800000000000000
+      internalID: -7561294186467541447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_216
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 310
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad38546286000a0c0800000000000000
+      internalID: -4566649574834994214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_217
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 310
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d0a4e76ff89850800000000000000
+      internalID: 6384133293480138241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_218
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 310
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf08e1575a976250800000000000000
+      internalID: 5937884333538283483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_219
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 310
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950525f106b69cdd0800000000000000
+      internalID: -2465321260422115239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_220
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 310
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf8a4dd654aa3bf0800000000000000
+      internalID: -343781728553627684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_221
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 310
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed009f1776480130800000000000000
+      internalID: 3533151385116741096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_222
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 310
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1669b8630edcdb0800000000000000
+      internalID: -4769909905440742997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_223
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 310
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050c9489a931f790800000000000000
+      internalID: -7498148504358091518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_224
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 310
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e595c349bf4dca70800000000000000
+      internalID: 8848816499977459171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_225
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 310
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4c1409854539b0800000000000000
+      internalID: -5101094548145418393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_226
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 284
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d972a99813e7890800000000000000
+      internalID: -7458469465812394734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_227
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 284
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e9b782e7f19660800000000000000
+      internalID: 7390961015803472272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_228
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 211
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9357dabdc4930c70800000000000000
+      internalID: 8936149696957076380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_229
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 211
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818272e00c34a2b10800000000000000
+      internalID: 1957451480196130840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_230
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 211
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644beeff728a8fe90800000000000000
+      internalID: -6991653531741670330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_231
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 211
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb28877a7f4280c0800000000000000
+      internalID: -4575006884044985354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_232
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 265
+        width: 74
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3402b544a41d4d110800000000000000
+      internalID: 1284881910612041795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_233
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 202
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb05a7554b4d4290800000000000000
+      internalID: -7904579009770091537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_234
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b4a4e64b1c7a580800000000000000
+      internalID: -8815864764865819855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_235
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 211
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fde2f6897895c00800000000000000
+      internalID: 889891490152505095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_236
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 211
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9cc13d144c4a40800000000000000
+      internalID: 5353728949216909869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_237
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b005fa7e3a40df0800000000000000
+      internalID: -214866666732909779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_238
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 211
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857752770cc1b86a0800000000000000
+      internalID: -6446026828692490408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_239
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 213
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da5e8adb9f67330800000000000000
+      internalID: 3708425936163941659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_240
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 211
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644735ef764a2ec0800000000000000
+      internalID: -3590980237754153884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_241
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 202
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee1ece2897f60b70800000000000000
+      internalID: 8865045149517749997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_242
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 203
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee25513e3e6e6f50800000000000000
+      internalID: 6876554894436019949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_243
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 203
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f945d2f44783530800000000000000
+      internalID: 3834942966117736217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_244
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 203
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1531dc1749326b0800000000000000
+      internalID: -5322247118128983625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_245
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 203
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518ed751cace5580800000000000000
+      internalID: -8836402487102635682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_246
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 202
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428cba85cad1efee0800000000000000
+      internalID: -1225509422538962908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base goku 1_247
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 202
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdb9305e9314ff50800000000000000
+      internalID: 6914172898592275902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
