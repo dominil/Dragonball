@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public float moveSpeed;
-    private Vector2 movement;
+    public Vector2 movement;
     private bool facingright=true;
     private Rigidbody2D rb;
 
