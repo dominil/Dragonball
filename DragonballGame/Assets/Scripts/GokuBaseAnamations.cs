@@ -20,12 +20,13 @@ public class GokuBaseAnamations : MonoBehaviour
 
     PlayerMovement playermov;
     Animator animator;
+    Rigidbody2D rb;
     private int atak=1;
     void Start()
     {
         playermov = GetComponent<PlayerMovement>();
         animator = GetComponent<Animator>();
-
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -45,13 +46,14 @@ public class GokuBaseAnamations : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.H))
         {
-            
+            rb.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY;
             if (atak == 1) {
-                ChangeAnimationState(Goku_Base_combo1);
+                ChangeAnimationState(Goku_Base_Atak1);
                 atak++;
+              
             }else if (atak == 2)
             {
-                ChangeAnimationState(Goku_Base_combo2);
+                ChangeAnimationState(Goku_Base_Atak2);
                 atak++;
             }else if (atak == 3)
             {
@@ -72,5 +74,10 @@ public class GokuBaseAnamations : MonoBehaviour
 
         currentState = newState;
     } 
+
+    public void LetFree()
+    {
+        rb.constraints = RigidbodyConstraints2D.None;
+            }
 
 }

@@ -37,13 +37,13 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -2792816102062292997}
-    m_Position: {x: 30, y: 180, z: 0}
+    m_Position: {x: 230, y: 160, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8510691294773085007}
-    m_Position: {x: 20, y: 250, z: 0}
+    m_Position: {x: -20, y: 400, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3108920983103306230}
-    m_Position: {x: 20, y: 300, z: 0}
+    m_Position: {x: -20, y: 350, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 519149892838096088}
     m_Position: {x: 420, y: 230, z: 0}
@@ -73,14 +73,14 @@ AnimatorStateMachine:
     m_Position: {x: 560, y: 530, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2852382357132315640}
-    m_Position: {x: 595, y: 595, z: 0}
+    m_Position: {x: 90, y: 240, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 140, y: 60, z: 0}
-  m_EntryPosition: {x: 50, y: 120, z: 0}
+  m_AnyStatePosition: {x: 700, y: 300, z: 0}
+  m_EntryPosition: {x: 110, y: 110, z: 0}
   m_ExitPosition: {x: 680, y: 130, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -2792816102062292997}
@@ -248,7 +248,13 @@ AnimatorController:
   m_PrefabAsset: {fileID: 0}
   m_Name: GokuBase
   serializedVersion: 5
-  m_AnimatorParameters: []
+  m_AnimatorParameters:
+  - m_Name: atak
+    m_Type: 3
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
