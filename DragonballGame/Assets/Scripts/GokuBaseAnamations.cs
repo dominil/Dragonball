@@ -10,9 +10,7 @@ public class GokuBaseAnamations : MonoBehaviour
     Animator animator;
     Rigidbody2D rb;
 
-    private int atak = 1;
-    private bool doindnothing = true;
-    private float delay;
+    
 
     void Start()
     {
@@ -44,5 +42,26 @@ public class GokuBaseAnamations : MonoBehaviour
     {
         animator.SetBool("ruszasie", false);
     }
-   
+
+    public void setunenabledMove()
+    {
+        playermov.enabled=false;
+    }
+    public void setenablemove()
+    {
+        playermov.enabled = true;
+    }
+    public void setgenkidown()
+    {
+        animator.SetBool("genki", false);
+    }
+    public void setkamehamehadown()
+    {
+        animator.SetBool("kamehameha", false);
+    }
+    public void setatakdown()
+    {
+        animator.SetBool("atak", false);
+    }
+
 }
